@@ -1,4 +1,4 @@
-# KadokWeb Library Test
+# KadokWeb Library Api
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@kadok-blue.svg?style=flat-square)](https://twitter.com/kadok)
 [![Source Code](http://img.shields.io/badge/source-kadok/kadokapi-blue.svg?style=flat-square)](https://github.com/kadokweb/kadokapi)
@@ -33,7 +33,7 @@ Uploader is available via Composer:
 or run
 
 ```bash
-composer require kadokweb/kadokapi
+composer require kadokweb/kadokwebapi
 ```
 
 ## Documentation
@@ -62,8 +62,8 @@ $user = $me->me();
 
 //update
 $user->update([
-    "first_name" => "Robson",
-    "last_name" => "Leite",
+    "first_name" => "Doka",
+    "last_name" => "Silva",
     "genre" => "male",
     "datebirth" => "1980-01-02",
     "document" => "888888888"
