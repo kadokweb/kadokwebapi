@@ -26,9 +26,6 @@
   "autoload": {
     "psr-4": {
       "kadokweb\\KadokwebApi\\": "src"
-    },
-    "files": [
-      "srcm/Boot"
-    ]
+    }
   }
 }
