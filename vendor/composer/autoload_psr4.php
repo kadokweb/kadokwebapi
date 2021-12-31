@@ -7,4 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'kadokweb\\KadokwebApi\\' => array($baseDir . '/src'),
+    'MatthiasMullie\\PathConverter\\' => array($vendorDir . '/matthiasmullie/path-converter/src'),
+    'MatthiasMullie\\Minify\\' => array($vendorDir . '/matthiasmullie/minify/src'),
 );

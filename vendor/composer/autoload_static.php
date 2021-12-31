@@ -11,12 +11,25 @@ class ComposerStaticInit80ad7a47738870ab81ee5c77fe230d41
         array (
             'kadokweb\\KadokwebApi\\' => 21,
         ),
+        'M' => 
+        array (
+            'MatthiasMullie\\PathConverter\\' => 29,
+            'MatthiasMullie\\Minify\\' => 22,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'kadokweb\\KadokwebApi\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'MatthiasMullie\\PathConverter\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/matthiasmullie/path-converter/src',
+        ),
+        'MatthiasMullie\\Minify\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/matthiasmullie/minify/src',
         ),
     );
 
