@@ -28,7 +28,7 @@
       "kadokweb\\KadokwebApi\\": "src"
     },
     "files": [
-      "source/Boot"
+      "srcm/Boot"
     ]
   }
 }
