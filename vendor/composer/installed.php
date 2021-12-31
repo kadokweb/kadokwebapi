@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '3b8193c431d8e6d32b12c5069f618fb627d8afa5',
+        'reference' => '2071b4fa0e0965b946194ebe253f73d9502f2af9',
         'name' => 'kadokweb/kadokwebapi',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '3b8193c431d8e6d32b12c5069f618fb627d8afa5',
+            'reference' => '2071b4fa0e0965b946194ebe253f73d9502f2af9',
             'dev_requirement' => false,
         ),
         'matthiasmullie/minify' => array(
